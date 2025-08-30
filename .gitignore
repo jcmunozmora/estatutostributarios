@@ -61,3 +61,8 @@ __pycache__/
 # ================================
 *.zip
 *.rar
+00_Modelo/01_Data/
+00_Modelo/Informacion_Nicolas/
+00_Modelo/.Rproj.user/
+00_Modelo/.Rhistory
+!00_Modelo/01_Data/README.md
